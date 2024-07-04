@@ -5,12 +5,12 @@
 <br />
 <div align="center">
   <a href="https://github.com-iamjerome11/">
-    <img src="./assets/img/nike.jpg" alt="Nike Logo" width="130" height="100">
+    <img src="" alt="" width="" height="">
   </a>
   <h3 align="center">Shoe Store Website</h3>
 </div>
 <div align="center">
-  This is a website showcasing a variety of shoes with detailed information and an engaging user interface.
+  This is a website showcasing a variety of shoes with detailed information and an engaging user interface and also a feature of luxury cars.
 </div>
 
 <br />
