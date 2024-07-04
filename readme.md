@@ -7,7 +7,7 @@
   <a href="https://github.com-iamjerome11/">
     <img src="" alt="" width="" height="">
   </a>
-  <h3 align="center">Shoe Store Website</h3>
+  <h3 align="center">Feature of shoes website and luxury cars</h3>
 </div>
 <div align="center">
   This is a website showcasing a variety of shoes with detailed information and an engaging user interface and also a feature of luxury cars.
