@@ -17,11 +17,38 @@ header {
     color: white;
 }
 
-.logo img {
-    height: 60px;
-    margin-left: 50px;
-}
-
+.back {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .back:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+  @media (min-width: 768px) {
+    .button-54 {
+      padding: 0.25em 0.75em;
+    }
+  }
 nav ul {
     list-style: none;
     margin: 0;
@@ -87,7 +114,7 @@ nav ul li a:hover {
     background-color: #e60000;
 }
 
-/* About */
+
 .about {
     display: flex;
     align-items: center;
@@ -127,7 +154,7 @@ nav ul li a:hover {
     background-color: #070e16;
 }
 
-/* Menu */
+
 .menu {
     padding: 80px 0;
     text-align: center;
@@ -171,7 +198,6 @@ nav ul li a:hover {
     color: #ffffff;
 }
 
-/* Reservations */
 .reservations {
     background-color: #1f1f1f;
     padding: 80px 0;
@@ -218,7 +244,7 @@ nav ul li a:hover {
     background-color: #e60000;
 }
 
-/* Gallery */
+
 .gallery {
     padding: 80px 0;
     text-align: center;
@@ -250,7 +276,7 @@ nav ul li a:hover {
     transform: scale(1.1);
 }
 
-/* Contact */
+
 .contact {
     background-color: #333;
     padding: 80px 0;
@@ -313,7 +339,7 @@ nav ul li a:hover {
     background-color: #e60000;
 }
 
-/* Footer */
+
 .footer {
     background-color: #070e16;
     padding: 40px 0;
@@ -348,7 +374,6 @@ nav ul li a:hover {
     font-size: 14px;
 }
 
-/* Animation for Luxury Cars Section */
 .luxury-cars .engine,
 .luxury-cars .handle,
 .luxury-cars .shifter {
