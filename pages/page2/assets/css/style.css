@@ -73,7 +73,7 @@ nav ul li a:hover {
 
 /* Hero */
 .hero {
-    background-image: url(../../../../assets/img/lambo2.jpg);
+    background-image: url(../img/lambo2.jpg);
     background-size: cover;
     background-position: center;
     height: 185vh;
